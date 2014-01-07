@@ -1,0 +1,5 @@
+MyArduHome
+===============================================================================
+MyArduHome consists of the following components:
+- datalogger
+- solar (interface with STECA Tarom solar charge controller)
